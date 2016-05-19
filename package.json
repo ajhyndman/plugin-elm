@@ -12,6 +12,7 @@
   },
   "keywords": [
     "elm",
+    "jspm",
     "systemjs",
     "plugin",
     "loader"
